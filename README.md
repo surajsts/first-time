@@ -4,6 +4,6 @@ just being started
 # title1
 #### title2
 
-*italics*
-**bold**
--something
+* italics *
+** bold **
+- something
